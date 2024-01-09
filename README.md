@@ -1,4 +1,4 @@
-### Enhancing Urban Mobility, Bridging Data and Infrastructure: A Journey Through Urban Mobility to Shape Future Prefabricated Service Points. ###
+#### Enhancing Urban Mobility, Bridging Data and Infrastructure: A Journey Through Urban Mobility to Shape Future Prefabricated Service Points. ####
 
 ***Citi-Bike-Analysis by YK, UofT, Canada***
 
@@ -6,7 +6,7 @@ As a devoted data analyst immersed in unraveling the intricacies of New York cit
 
 ![image](https://github.com/YargKlnc/Citi-Bike-Analysis/assets/142269763/017bd1cb-45b8-4c00-ac70-7667069d4c77)
 
-##OVERVIEW##
+## OVERVIEW ##
 
 New York Citi Bike, recognized as the leading bike-sharing initiative in the United States, is committed to elevating its services by strategically identifying the Top 5 Most Popular and Busiest Stations in Manhattan. This initiative focuses on enhancing the customer experience through the installation of cutting-edge prefabricated service facilities. These facilities are envisioned to feature amenities like complimentary Wi-Fi, restroom facilities, and vending machines stocked with rider essentials. Furthermore, each service hub will include a dedicated customer service counter providing free guidance to tourists, complete with city maps, ensuring comprehensive support for both customers and subscribers. This strategic investment aligns with the program's dedication to delivering unparalleled biking experiences and fostering positive relationships with its riders.
 
@@ -18,7 +18,7 @@ In this comprehensive analysis, the dataset acquired from Citi Bike encompasses 
 
 City Officials' Inquiry: City officials are seeking insightful answers to a series of questions to enhance their understanding of crucial aspects.
 
-##DATA-DRIVEN OVERVIEW##
+## DATA-DRIVEN OVERVIEW ##
 
 As a devoted data analyst immersed in unraveling the intricacies of New York city's bike-sharing program, I am excited to present a thorough exploration of data patterns. In the sections that follow, my goal is to equip you, esteemed city officials, with valuable insights into optimizing urban mobility and shaping the development of future prefabricated service points.
 
@@ -33,6 +33,8 @@ Our focus sharpens on the top 5 most popular stations, where a compelling narrat
 
 **Bike Performance and Maintenance:**
 Concluding our exploration, we spotlight the star performers among our fleet—the bikes that have covered the maximum distance. Armed with this knowledge, we craft effective maintenance strategies, ensuring our bikes remain in peak condition, ready to meet the ever-evolving mobility needs of our city. This information can inform the integration of bike maintenance facilities within the planned service points.
+
+## SUMMARY ##
 
 Their inquiries find clarity and depth through vivid visual representations presented in the named visuals within the Tableau profile. Below, a concise summary elucidates the key insights derived from these visual depictions.
 
@@ -98,7 +100,7 @@ Their inquiries find clarity and depth through vivid visual representations pres
 
 These resources provide actionable insights to optimize bike-sharing services, improve infrastructure, and shape the development of prefabricated service points equipped with WiFi, washrooms, and vending machines, setting the stage for a more connected and user-friendly urban experience.
 
-##REFERENCES##
+## REFERENCES ##
 
 Datasets : https://citibikenyc.com/system-data
 
