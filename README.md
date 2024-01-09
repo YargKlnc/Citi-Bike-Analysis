@@ -18,7 +18,7 @@ In this comprehensive analysis, the dataset acquired from Citi Bike encompasses 
 
 City Officials' Inquiry: City officials are seeking insightful answers to a series of questions to enhance their understanding of crucial aspects.
 
-## DATA-DRIVEN OVERVIEW ##
+## DATA-DRIVEN INSIGHTS ##
 
 As a devoted data analyst immersed in unraveling the intricacies of New York city's bike-sharing program, I am excited to present a thorough exploration of data patterns. In the sections that follow, my goal is to equip you, esteemed city officials, with valuable insights into optimizing urban mobility and shaping the development of future prefabricated service points.
 
