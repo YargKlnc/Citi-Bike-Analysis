@@ -20,7 +20,7 @@ City Officials' Inquiry: City officials are seeking insightful answers to a seri
 
 ## DATA-DRIVEN INSIGHTS ##
 
-As a devoted data analyst immersed in unraveling the intricacies of New York city's bike-sharing program, I am excited to present a thorough exploration of data patterns. In the sections that follow, my goal is to equip you, esteemed city officials, with valuable insights into optimizing urban mobility and shaping the development of future prefabricated service points.
+In the sections that follow, my goal is to equip you, esteemed city officials, with valuable insights into optimizing urban mobility and shaping the development of future prefabricated service points.
 
 **Start and End Station Popularity:**
 Embarking on this analytical journey, we uncover the heartbeat of our city's bike-sharing system. The analysis meticulously identifies the most frequented start and end stations, offering a strategic lens for resource allocation, congestion mitigation, and enhanced accessibility. These insights can guide the optimal placement of the upcoming prefabricated service points.
