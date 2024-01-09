@@ -1,4 +1,4 @@
-#### Enhancing Urban Mobility, Bridging Data and Infrastructure: A Journey Through Urban Mobility to Shape Future Prefabricated Service Points. ####
+# Enhancing Urban Mobility, Bridging Data and Infrastructure: A Journey Through Urban Mobility to Shape Future Prefabricated Service Points. #
 
 ***Citi-Bike-Analysis by YK, UofT, Canada***
 
