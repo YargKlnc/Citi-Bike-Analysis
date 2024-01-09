@@ -13,9 +13,7 @@ In this comprehensive analysis, the dataset acquired from Citi Bike encompasses 
 
 City Officials' Inquiry: City officials are seeking insightful answers to a series of questions to enhance their understanding of crucial aspects.
 
-- Two static maps have been created to plot all bike stations, providing visual indicators for the most popular locations both as starting and ending points for journeys. These maps incorporate overlaid zip code data, presenting comprehensive details such as station IDs, names, latitude and longitude coordinates, as well as aggregated metrics including the total user count within the specified timespan and the cumulative distance covered in miles from the starting station to the destination station. This comprehensive visualization aims to elucidate patterns in user behavior and highlight significant bike station locations, enabling informed decision-making and strategic planning for the bike-sharing program.
-
-City officials inquiries find clarity and depth through vivid visual representations presented in the named visuals within the Tableau profile. Below, a concise summary elucidates the key insights derived from these visual depictions.
+Their inquiries find clarity and depth through vivid visual representations presented in the named visuals within the Tableau profile. Below, a concise summary elucidates the key insights derived from these visual depictions.
 
 1. **Start Stations Popularity by Total User Size:**
    - What is the distribution of user size across different start stations in our bike-sharing program?
@@ -76,26 +74,6 @@ City officials inquiries find clarity and depth through vivid visual representat
 15. **Leading Bike IDs for Maximum Distance Traveled across the Top 5 Popular Stations:**
     - Which bike IDs have covered the maximum distance across the top 5 popular stations?
     - How can this information guide maintenance and replacement strategies for high-performing bikes?
-
-**Story for Dashboard and GitHub Readme:**
-
-Title: "Optimizing Urban Mobility: Unveiling Patterns in Bike-Sharing Data"
-
-In our bustling city, our bike-sharing program has become an integral part of urban mobility. As city officials, understanding user behavior and system performance is crucial for optimizing resources and enhancing the overall bike-sharing experience. Let's explore the narrative that unfolds from our data:
-
-**Start and End Station Popularity:**
-Our analysis reveals the pulse of the city's bike-sharing system, pinpointing the most popular start and end stations. This information empowers us to strategically allocate resources, address congestion, and improve accessibility.
-
-**User Demographics and Behavior:**
-Diving deeper, we explore user demographics and behavior. From age and gender distributions to average miles traveled, these insights provide a comprehensive understanding of our diverse user base. This knowledge becomes a foundation for targeted marketing, infrastructure improvements, and user-focused programs.
-
-**Top 5 Most Popular Stations:**
-Focusing on the top 5 most popular stations, we unravel a detailed story. From the total miles ridden to average trip durations, we gain a nuanced perspective on the preferences and habits of our users at these key locations. This narrative guides us in tailoring services to meet the specific needs of these high-traffic areas.
-
-**Bike Performance and Maintenance:**
-Finally, we identify the star performers among our bikes, those with the maximum distance traveled. This knowledge aids in crafting effective maintenance strategies, ensuring that our fleet remains in top condition and ready to serve the city's mobility needs.
-
-Through this data-driven storytelling approach, our dashboard and GitHub readme become valuable tools for city officials, providing actionable insights for optimizing bike-sharing services, improving infrastructure, and ultimately creating a more efficient and user-friendly urban mobility experience.
 
 ***REFERENCES***
 All rights of Citi Bike NY photo on head belongs to : https://www.tripadvisor.ca/Attraction_Review-g60763-d7071917-Reviews-Citi_Bike-New_York_City_New_York.html
