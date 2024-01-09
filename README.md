@@ -1,6 +1,6 @@
-### Citi-Bike-Analysis
+### Enhancing Urban Mobility, Bridging Data and Infrastructure: A Journey Through Urban Mobility to Shape Future Prefabricated Service Points. ###
 
-**Enhancing Urban Mobility, Bridging Data and Infrastructure: A Journey Through Urban Mobility to Shape Future Prefabricated Service Points by YK, UofT, Canada**
+**Citi-Bike-Analysis by YK, UofT, Canada**
 
 As a devoted data analyst immersed in unraveling the intricacies of New York city's bike-sharing program, I am excited to present a thorough exploration of data patterns. In the sections that follow, my goal is to equip you, esteemed city officials, with valuable insights into optimizing urban mobility and shaping the development of future prefabricated service points.
 
