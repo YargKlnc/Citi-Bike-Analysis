@@ -7,6 +7,7 @@ As a devoted data analyst immersed in unraveling the intricacies of New York cit
 ![image](https://github.com/YargKlnc/Citi-Bike-Analysis/assets/142269763/017bd1cb-45b8-4c00-ac70-7667069d4c77)
 
 **OVERVIEW**
+
 New York Citi Bike, recognized as the leading bike-sharing initiative in the United States, is committed to elevating its services by strategically identifying the Top 5 Most Popular and Busiest Stations in Manhattan. This initiative focuses on enhancing the customer experience through the installation of cutting-edge prefabricated service facilities. These facilities are envisioned to feature amenities like complimentary Wi-Fi, restroom facilities, and vending machines stocked with rider essentials. Furthermore, each service hub will include a dedicated customer service counter providing free guidance to tourists, complete with city maps, ensuring comprehensive support for both customers and subscribers. This strategic investment aligns with the program's dedication to delivering unparalleled biking experiences and fostering positive relationships with its riders.
 
 Since its inception in 2013, the Citi Bike program has diligently built a robust infrastructure for the systematic collection of data on program utilization. Monthly, the program meticulously gathers and organizes comprehensive bike data, making it publicly accessible through the Citi Bike DataLinks webpage. Despite regular updates to the dataset, the team has yet to implement a comprehensive dashboard or sophisticated reporting mechanism.
