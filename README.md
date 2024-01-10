@@ -4,7 +4,7 @@
 
 As a dedicated data analyst deeply engaged in unraveling the intricacies of New York City's bike-sharing program, I am excited to present a comprehensive exploration of data patterns. In the sections that follow, my goal is to equip you, esteemed city officials, with valuable insights from June, July, August, September 2019, and 2020, aimed at optimizing urban mobility and shaping the development of future prefabricated service points.
 
-https://public.tableau.com/app/profile/yargi.kilinc/viz/CitiBike_17044863602150/Story1
+[https://public.tableau.com/app/profile/yargi.kilinc/viz/CitiBike_17044863602150/Story1](https://public.tableau.com/shared/7C2YJXMKR?:display_count=n&:origin=viz_share_link)
 
 ![image](https://github.com/YargKlnc/Citi-Bike-Analysis/assets/142269763/017bd1cb-45b8-4c00-ac70-7667069d4c77)
 
