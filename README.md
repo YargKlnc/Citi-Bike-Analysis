@@ -4,6 +4,8 @@
 
 As a devoted data analyst immersed in unraveling the intricacies of New York city's bike-sharing program, I am excited to present a thorough exploration of data patterns. In the sections that follow, my goal is to equip you, esteemed city officials, with valuable insights into optimizing urban mobility and shaping the development of future prefabricated service points.
 
+https://public.tableau.com/app/profile/yargi.kilinc/viz/CitiBike_17044863602150/Story1
+
 ![image](https://github.com/YargKlnc/Citi-Bike-Analysis/assets/142269763/017bd1cb-45b8-4c00-ac70-7667069d4c77)
 
 ## OVERVIEW ##
